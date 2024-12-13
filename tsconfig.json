@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2016",                          /* Define a versão do JavaScript gerado */
+    "module": "commonjs",                        /* Define o sistema de módulos (commonjs para Node.js) */
+    "esModuleInterop": true,                     /* Habilita a interoperabilidade com módulos CommonJS */
+    "forceConsistentCasingInFileNames": true,    /* Garante a consistência nas letras maiúsculas/minúsculas nos nomes de arquivos */
+    "strict": true,                              /* Ativa todas as opções de verificação estrita */
+    "skipLibCheck": true,                        /* Ignora a verificação de bibliotecas externas */
+    "outDir": "./dist",                          /* Diretório onde os arquivos JavaScript serão gerados */
+    "rootDir": "./src",                          /* Diretório onde seus arquivos TypeScript estão localizados */
+    //"watch": true                                /* Ativa o modo de observação (watch), recompilando ao salvar os arquivos */
+  }
+}
